@@ -270,7 +270,7 @@ iframe {
 .featured{
 	float: left;
 	display: block;
-	margin: 10px;
+	margin: 5px;
 	width: 64%;
 	height: 900px;
 }
