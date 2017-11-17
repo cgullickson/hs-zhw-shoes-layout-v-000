@@ -264,15 +264,15 @@ iframe {
 	width: 32%;
 	margin: 5px;
 	float: left;
-	height: auto;
+	height:900px;
 }
 
 .featured{
 	float: left;
 	display: block;
-	margin: 5px;
-	width: 64.5%;
-	height: auto;
+	margin: 10px;
+	width: 64%;
+	height: 900px;
 }
 
 .col-1 {
