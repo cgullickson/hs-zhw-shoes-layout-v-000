@@ -264,7 +264,6 @@ iframe {
 	width: 32%;
 	margin: 5px;
 	float: left;
-	height:900px;
 }
 
 .featured{
@@ -272,7 +271,6 @@ iframe {
 	display: block;
 	margin: 5px;
 	width: 64%;
-	height: 900px;
 }
 
 .col-1 {
